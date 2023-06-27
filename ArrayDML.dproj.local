@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/08 20:30:56.000.164,=C:\Users\aveli\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/18 09:54:07.000.326,=C:\Users\aveli\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/23 10:19:18.000.187,=C:\Users\aveli\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/06/23 10:19:57.000.269,C:\Users\aveli\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=D:\projetos\FireDac_ArrayDML\main.dfm</Transaction>
+    <Transaction>2023/06/23 10:19:57.000.269,C:\Users\aveli\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=D:\projetos\FireDac_ArrayDML\main.pas</Transaction>
+    <Transaction>2023/06/23 10:20:03.000.415,C:\Users\aveli\OneDrive\Documentos\Embarcadero\Studio\Projects\Project2.dproj=D:\projetos\FireDac_ArrayDML\ArrayDML.dproj</Transaction>
+    <Transaction>2023/06/23 15:15:11.000.041,=D:\projetos\FireDac_ArrayDML\Unit1.pas</Transaction>
+    <Transaction>2023/06/23 15:15:20.000.157,D:\projetos\FireDac_ArrayDML\Threads.pas=D:\projetos\FireDac_ArrayDML\Unit1.pas</Transaction>
+    <Transaction>2023/06/24 12:55:51.000.150,=D:\projetos\FireDac_ArrayDML\Unit1.pas</Transaction>
+    <Transaction>2023/06/24 12:56:00.000.689,D:\projetos\FireDac_ArrayDML\Unit1.pas=D:\projetos\FireDac_ArrayDML\ConfigConexao.pas</Transaction>
+    <Transaction>2023/06/24 14:47:51.000.077,=D:\projetos\FireDac_ArrayDML\Unit1.pas</Transaction>
+    <Transaction>2023/06/24 14:48:00.000.446,D:\projetos\FireDac_ArrayDML\Unit1.pas=D:\projetos\FireDac_ArrayDML\InterfaceConexao.pas</Transaction>
+    <Transaction>2023/06/24 14:51:30.000.978,=D:\projetos\FireDac_ArrayDML\Unit1.pas</Transaction>
+    <Transaction>2023/06/24 14:51:46.000.917,D:\projetos\FireDac_ArrayDML\Unit1.pas=D:\projetos\FireDac_ArrayDML\ConexaoPostgres.pas</Transaction>
+    <Transaction>2023/06/24 15:34:45.000.515,D:\projetos\FireDac_ArrayDML\ConexaoPostgres.pas=D:\projetos\FireDac_ArrayDML\Conexao.pas</Transaction>
+    <Transaction>2023/06/24 15:36:54.000.072,=D:\projetos\FireDac_ArrayDML\Unit1.pas</Transaction>
+    <Transaction>2023/06/24 15:37:13.000.765,D:\projetos\FireDac_ArrayDML\Unit1.pas=D:\projetos\FireDac_ArrayDML\ConexaoFB.pas</Transaction>
+    <Transaction>2023/06/24 15:47:47.000.429,D:\projetos\FireDac_ArrayDML\Conexao.pas=D:\projetos\FireDac_ArrayDML\ConexaoPool.pas</Transaction>
+    <Transaction>2023/06/24 16:19:45.000.573,=D:\projetos\FireDac_ArrayDML\Unit1.pas</Transaction>
+    <Transaction>2023/06/24 16:19:54.000.964,D:\projetos\FireDac_ArrayDML\Unit1.pas=D:\projetos\FireDac_ArrayDML\ConexaoPG.pas</Transaction>
+  </Transactions>
+</BorlandProject>
